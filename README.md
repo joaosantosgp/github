@@ -1,5 +1,5 @@
 # Bem vindo o curso de Github
-Aperfeicoando as tecnicas de Git e Github
+Aperfeicoando as tecnicas de **Git** e **Github**
 
 ## Modulos:
 - O que e Git
