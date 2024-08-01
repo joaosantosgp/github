@@ -12,6 +12,8 @@ Aperfeicoando as tecnicas de **Git** e **Github**
 * Trabalhando com Branches
 
 1. O que e Git
+    1. Instalando GIT na maquina
+    2. Como utilizar GIT 
 2. Git vs Github
 3. Aprendendo sobre repositorios
 4. O que e pull request
