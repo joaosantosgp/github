@@ -26,3 +26,13 @@ Aperfeicoando as tecnicas de **Git** e **Github**
 >Este e um blockoute usado para destacar alguma area
 >
 > Segunda area destacada
+
+```
+Trecho de codigo
+```
+**Exemplo de como rodar o codigo**
+
+```python
+def mostrarNome(nome, email):
+    return 'Bem vindo'
+```
