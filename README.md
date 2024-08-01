@@ -4,6 +4,9 @@
 # Bem vindo o curso de Github
 Aperfeicoando as tecnicas de **Git** e **Github**
 
+- [x] Site Responsivo
+- [ ] Site HTML
+
 ## Modulos:
 * O que e Git
 * Git vs Github
