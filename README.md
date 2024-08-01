@@ -11,6 +11,11 @@ Aperfeicoando as tecnicas de **Git** e **Github**
 * O que e pull request
 * Trabalhando com Branches
 
+1. O que e Git
+2. Git vs Github
+3. Aprendendo sobre repositorios
+4. O que e pull request
+5. Trabalhando com Branches
 
 ### Redes sociais:
 [Instagram](https://instagram.com) | 
