@@ -30,8 +30,9 @@ Aperfeicoando as tecnicas de **Git** e **Github**
 >
 > Segunda area destacada
 
-```
-Trecho de codigo
+### Comando para rodar
+```python
+import requests
 ```
 **Exemplo de como rodar o codigo**
 
