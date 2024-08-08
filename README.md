@@ -39,3 +39,10 @@ Trecho de codigo
 def mostrarNome(nome, email):
     return 'Bem vindo'
 ```
+
+Propriedade | Descricao 
+----------- | ---------
+name | Para unformar o nome do usuario
+senha | Informar a senha do usuario
+size | Para informar o tamanho
+background | Informar a cor de fundo
